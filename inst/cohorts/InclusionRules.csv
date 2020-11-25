@@ -1,0 +1,7 @@
+cohortName,ruleSequence,ruleName,cohortId
+1775757,0,Visit of inpatient,1775757
+1775758,0,no prior ESRD,1775758
+1775758,1,no prior transplant,1775758
+1775768,0,Age,1775768
+1775770,0,Inpatient or ER,1775770
+1775770,1,No encephalitis on the IP/ER visit,1775770

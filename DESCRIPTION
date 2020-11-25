@@ -1,0 +1,20 @@
+Package: IncidenceRate 
+Type: Package
+Title: A Package Skeleton for Cohort Diagnostics
+Version: 0.0.1
+Author: Anna Ostropolets [aut, cre]
+Maintainer: Anna Ostropolets <ostropolets@ohdsi.org>
+Description: A CD package to compute incidence rates
+Depends:
+    DatabaseConnector (>= 2.2.0)
+Imports:
+	CohortDiagnostics
+Suggests:
+    knitr,
+    rmarkdown,
+    ROhdsiWebApi,
+    OhdsiRTools
+License: Apache License 2.0
+VignetteBuilder: knitr
+LazyData: TRUE
+RoxygenNote: 7.1.1
